@@ -1,6 +1,6 @@
 # 👨‍💻 Israel Silva
 
-Me chamo Israel Silva, tenho 21 anos e sou estudante de Engenharia de Software na UNICID. Gosto de tecnologia, desenvolvimento web e engenharia de software. Estou construindo aplicações end-to-end com React no front-end e Node.js no back-end. Busco sempre unir lógica sólida, código limpo e arquiteturas eficientes em cada projeto que desenvolvo.
+Estudante de Engenharia de Software na UNICID, 21 anos. Curto web e construo projetos com React e Node. Gosto de entender como as coisas funcionam por baixo e de deixar o código fácil de manter
 
 <p align="left">
     <a href="https://github.com/israelapsilva16?tab=repositories&sort=stargazers">
