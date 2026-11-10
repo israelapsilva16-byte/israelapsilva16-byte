@@ -2,13 +2,6 @@
 
 Estudante de Engenharia de Software na UNICID, 21 anos. Curto web e construo projetos com React e Node. Gosto de entender como as coisas funcionam por baixo e de deixar o código fácil de manter
 
-<p align="left">
-    <a href="https://github.com/israelapsilva16?tab=repositories&sort=stargazers">
-        <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/israelapsilva16?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" />
-    </a>
-
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
