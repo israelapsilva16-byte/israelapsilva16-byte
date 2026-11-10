@@ -25,9 +25,7 @@ Estudante de Engenharia de Software na UNICID, 21 anos. Curto web e construo pro
       <p>
         <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>
       </p>
-      <a href="https://github.com/israelapsilva16/fluxo" target="_blank">
-        <img src="https://img.shields.io/badge/Ver_Reposit%C3%B3rio-00DC82?style=for-the-badge&logo=github&logoColor=black" />
-      </a>
+     
     </td>
     <td width="50%" align="center" style="padding: 15px; border: 1px solid #30363d; border-radius: 8px;">
       <h3>💈 Code e Corte</h3>
