@@ -1,6 +1,15 @@
 # 👨‍💻 Israel Silva
 
-Estudante de Engenharia de Software na UNICID, 21 anos. Curto web e construo projetos com React e Node. Gosto de entender como as coisas funcionam por baixo e de deixar o código fácil de manter
+Me chamo Israel Silva, tenho 21 anos e sou estudante de Engenharia de Software na UNICID. Gosto de tecnologia, desenvolvimento web e engenharia de software. Estou construindo aplicações end-to-end com React no front-end e Node.js no back-end. Busco sempre unir lógica sólida, código limpo e arquiteturas eficientes em cada projeto que desenvolvo.
+
+<p align="left">
+    <a href="https://github.com/israelapsilva16?tab=repositories&sort=stargazers">
+        <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/israelapsilva16?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" />
+    </a>
+    <a href="https://github.com/israelapsilva16?tab=followers">
+        <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/israelapsilva16?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
+    </a>
+</p>
 
 ---
 
@@ -27,7 +36,6 @@ Estudante de Engenharia de Software na UNICID, 21 anos. Curto web e construo pro
       </p>
       <a href="https://github.com/israelapsilva16/fluxo" target="_blank">
       </a>
-     
     </td>
     <td width="50%" align="center" style="padding: 15px; border: 1px solid #30363d; border-radius: 8px;">
       <h3>💈 Code e Corte</h3>
